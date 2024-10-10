@@ -3,7 +3,7 @@ entries:
   open5gs-amf:
   - apiVersion: v2
     appVersion: 2.4.11
-    created: "2024-07-08T13:23:33.170553466Z"
+    created: "2024-10-10T12:05:30.784695496Z"
     dependencies:
     - name: common
       repository: https://charts.bitnami.com/bitnami
@@ -11,7 +11,7 @@ entries:
       - bitnami-common
       version: 1.x.x
     description: 'Helm chart to deploy Open5gs AMF service on Kubernetes. '
-    digest: c5c201be9aeaf8e29cbf42ea0f9c833fb247caedf41d075eec6d6703e671ad0c
+    digest: 58c9c227b888d7d74c44ed87845d9c7e6c030483a4cb77d1402da91472db76fc
     home: https://github.com/gradiant/openverso-charts
     icon: https://open5gs.org/assets/img/open5gs-logo.png
     keywords:
@@ -25,4 +25,4 @@ entries:
     urls:
     - open5gs-amf-2.1.0.tgz
     version: 2.1.0
-generated: "2024-07-08T13:23:33.166667101Z"
+generated: "2024-10-10T12:05:30.781959277Z"
